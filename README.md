@@ -11,3 +11,5 @@
 * Clever help finding LaTeX symbols: http://detexify.kirelabs.org/classify.html
 * `ggplot2` documentation: http://docs.ggplot2.org/current/
 * add something
+* add more
+
